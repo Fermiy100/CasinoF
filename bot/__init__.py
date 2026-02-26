@@ -1,0 +1,2 @@
+﻿"""Telegram casino bot package."""
+
